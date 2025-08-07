@@ -1,1 +1,1 @@
-# Author is Ali Noor
+<p>This is a simple yet interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. It allows users to play the classic hand game against a computer opponent with dynamic visuals and real-time score tracking.git </p>
